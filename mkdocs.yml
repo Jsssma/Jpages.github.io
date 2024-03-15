@@ -1,0 +1,6 @@
+site_name: WRITTEN AND READ
+site_url: https://formereadingandlookback.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
